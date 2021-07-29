@@ -64,9 +64,3 @@ border-radius: 5px;
 
  /* Responsive Area  */
 
-@media screen and (max-width:480px) {
-    .price-section{
-        display: none;
-    }
-    
-}
