@@ -61,3 +61,12 @@ border-radius: 5px;
 .padding-100{
     padding: 100px 0;
 }
+
+ /* Responsive Area  */
+
+@media screen and (max-width:480px) {
+    .price-section{
+        display: none;
+    }
+    
+}
